@@ -1,1 +1,1 @@
-Łukasz Tomczyk 164476 BDiSE
+164476 Bazy Danych i Systemy Ekspertowe (BDISE)
